@@ -2,7 +2,7 @@
 
 ## 设备租借
 
-<b>| 设备     | 租借设备                                                    | 流动查询                                                     |</b>
+| 设备     | 租借设备                                                    | 流动查询                                                     |
 | -------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | 索尼     | [租借设备](https://docs.qq.com/form/page/DU0dYZkZYQ0NLU1RS) | [流动查询](https://docs.qq.com/sheet/DU3JDQ2hEUFVyVXNK?tab=BB08J2) |
 | 佳能     | [租借设备](https://docs.qq.com/form/page/DU2tuWGdkRm1HYnRE) | [流动查询](https://docs.qq.com/sheet/DU1lEdllta1RkdGpI)      |
