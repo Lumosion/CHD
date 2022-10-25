@@ -4,8 +4,7 @@
 
 | 设备     | 借还设备                                                    | 流动查询                                                     |
 | -------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
-| 索尼     | [借还设备](https://docs.qq.com/form/page/DU0dYZkZYQ0NLU1RS) | [流动查询](https://docs.qq.com/sheet/DU3JDQ2hEUFVyVXNK?tab=BB08J2) |
-| 佳能     | [借还设备](https://docs.qq.com/form/page/DU2tuWGdkRm1HYnRE) | [流动查询](https://docs.qq.com/sheet/DU1lEdllta1RkdGpI)      |
+| 相机选择 | [借还设备](https://docs.qq.com/form/page/DU2FnbXFpSnFxWkJ6) | [流动查询](https://docs.qq.com/sheet/DU1BQR3JMQW5QYVda) |
 | 无人机   | [借还设备](https://docs.qq.com/form/page/DU3VRTEdGeVlyQ3hW) | [流动查询](https://docs.qq.com/sheet/DU0hIY1FJUEtSQXJ4)      |
 | 其他设备 | [借还设备](https://docs.qq.com/form/page/DU2pxamVsR1NVSWp2) | [流动查询](https://docs.qq.com/sheet/DU1VOQUN3R3dGSXhu)      |
 
